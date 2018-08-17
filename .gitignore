@@ -73,4 +73,4 @@ typings/
 .serverless
 
 #Config
-./config.json
+config.json
