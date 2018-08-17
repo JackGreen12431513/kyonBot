@@ -9,7 +9,7 @@ const getYouTubeID = require("get-youtube-id");
 const fetchVideoInfo = require("youtube-info");
 
 const userData = JSON.parse(fs.readFileSync("userData.json", "utf8"));
-const guildData = JSON.parse(fs.readFileSync("joinedGUilds.json", "utf8"));
+const guildData = JSON.parse(fs.readFileSync("joinedGuilds.json", "utf8"));
 
 const conf = require('./config.json', 'utf8');
 
@@ -331,8 +331,10 @@ git remote add heroku https://git.heroku.com/your-app-name.git
 git remote -v
 git remote add origin https://github.com/JackGreen12431513/kyonBot
 git remote -v
-git push origin masters
+git push origin master
 heroku local
 git push heroku master
 */
+
+//RIP
 
