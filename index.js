@@ -336,5 +336,3 @@ heroku local
 git push heroku master
 */
 
-//RIP
-
