@@ -1,0 +1,23 @@
+{
+  "name": "devhunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "opusscript": "0.0.6",
+    "repeat": "0.0.6",
+    "request": "^2.88.0",
+    "youtube-info": "^1.2.0",
+    "ytdl-core": "^0.24.0"
+  }
+}
