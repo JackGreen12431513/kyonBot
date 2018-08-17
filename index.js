@@ -329,7 +329,7 @@ heroku login
 heroku create your-app-name
 git remote add heroku https://git.heroku.com/your-app-name.git
 git remote -v
-git remote add origin https://github.com/your-username/your-repo-name.git
+git remote add origin https://github.com/JackGreen12431513/kyonBot
 git remote -v
 git push origin masters
 heroku local
